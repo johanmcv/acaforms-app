@@ -1,0 +1,22 @@
+
+
+.card {
+  margin-top: 20px; 
+  padding: 15px;
+}
+
+.dashboard-banner-profile-info{
+  
+}
+
+.survey-text {
+  margin: 0; /* Elimina el espacio entre los párrafos */
+  padding: 10px; /* Añade un espacio de 10px alrededor del texto (ajusta según tus necesidades) */
+  text-align: center; 
+  line-height: 1; 
+}
+
+
+.dashboard-miniBanner{
+  margin-top: 20px;
+}
