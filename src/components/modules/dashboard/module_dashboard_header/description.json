@@ -3,12 +3,8 @@
     "version": "1.0.0",
     "description": "Modulo Header para la dashboard principal",
     "author": "Johan Villamizar",
-    "dependencies": {
-      
-    },
-    "scripts": {
-      
-    },
+    "dependencies": {},
+    "scripts": {},
     "main": "ModuloHeaderPrincipal.jsx",
     "assets": {
       "css": "assets/css/style.css",

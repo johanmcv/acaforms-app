@@ -1,5 +1,5 @@
-import ModuloHeaderPrincipal from "./modules/dashboard/module_header_dashboard/ModuloHeaderPrincipal";
-import ModuloPrincipalContainer from "./modules/dashboard/modulo_principalContainer_dashboard/ModuloPrincipalContainer";
+import ModuloHeaderPrincipal from "./modules/dashboard/module_dashboard_header/ModuloHeaderPrincipal";
+import ModuloPrincipalContainer from "./modules/dashboard/modulo_dashboard_main/ModuloPrincipalContainer";
 
 function Dashboard() {
   return (

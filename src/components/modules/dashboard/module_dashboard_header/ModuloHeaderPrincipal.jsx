@@ -21,7 +21,6 @@ const ModuloHeaderPrincipal =  () => (
                             className=" img-fluid dashboard-miniBanner-img-profile"
                         />
                         <span><b>Nombre de Usuario</b><br />Ocupación</span>
-                        
                     </div>
                 </div>
             </div>

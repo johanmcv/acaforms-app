@@ -1,0 +1,13 @@
+{
+    "name": "Modulo Main",
+    "version": "1.0.0",
+    "description": "Modulo de la estructura principal y sus componentes.",
+    "author": "Johan Villamizar",
+    "dependencies": {},
+    "scripts": {},
+    "main": "ModuloTemplate.jsx",
+    "assets": {
+      "css": "assets/css/style.css",
+      "js": "assets/js/main.js"
+    }
+}

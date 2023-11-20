@@ -1,0 +1,13 @@
+{
+    "name": "Modulo de Plantilla",
+    "version": "1.0.0",
+    "description": "Modulo plantilla para la creación de modulos adicionales",
+    "author": "Johan Villamizar",
+    "dependencies": {},
+    "scripts": {},
+    "main": "ModuloTemplate.jsx",
+    "assets": {
+      "css": "assets/css/style.css",
+      "js": "assets/js/main.js"
+    }
+}
