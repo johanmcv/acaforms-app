@@ -8,6 +8,8 @@
 ## Info
 ```
 I am at the beginning of the project development
+
+Proyecto finalizado sin funcionalidad. Abandonado
 ```
 ---
 ❤️ by [Johan Villamizar](https://johanvillamizar.com) 😊
